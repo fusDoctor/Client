@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2r3/Io2EEBk=",
+  "dgSpecHash": "WuqWkxoWY4g=",
   "success": true,
-  "projectFilePath": "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj",
+  "projectFilePath": "D:\\codigo\\FusDoctor\\Client\\WebClient.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.10\\microsoft.aspnetcore.authorization.8.0.10.nupkg.sha512",
     "C:\\Users\\leand\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.10\\microsoft.aspnetcore.components.8.0.10.nupkg.sha512",
