@@ -1878,11 +1878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo\\leandrofus\\Client\\WebClient.csproj",
+      "projectUniqueName": "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj",
       "projectName": "WebClient",
-      "projectPath": "D:\\codigo\\leandrofus\\Client\\WebClient.csproj",
+      "projectPath": "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-      "outputPath": "D:\\codigo\\leandrofus\\Client\\obj\\",
+      "outputPath": "D:\\codigo\\fusDoctor\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leand\\AppData\\Roaming\\NuGet\\NuGet.Config",
