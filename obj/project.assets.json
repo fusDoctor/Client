@@ -1878,9 +1878,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\codigo\\leandrofus\\Client\\Client.csproj",
-      "projectName": "Client",
-      "projectPath": "D:\\codigo\\leandrofus\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\codigo\\leandrofus\\Client\\WebClient.csproj",
+      "projectName": "WebClient",
+      "projectPath": "D:\\codigo\\leandrofus\\Client\\WebClient.csproj",
       "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
       "outputPath": "D:\\codigo\\leandrofus\\Client\\obj\\",
       "projectStyle": "PackageReference",
