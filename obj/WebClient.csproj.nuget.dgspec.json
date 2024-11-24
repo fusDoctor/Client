@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\codigo\\FusDoctor\\Client\\WebClient.csproj": {}
+    "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj": {}
   },
   "projects": {
-    "D:\\codigo\\FusDoctor\\Client\\WebClient.csproj": {
+    "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\codigo\\FusDoctor\\Client\\WebClient.csproj",
+        "projectUniqueName": "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj",
         "projectName": "WebClient",
-        "projectPath": "D:\\codigo\\FusDoctor\\Client\\WebClient.csproj",
+        "projectPath": "D:\\codigo\\fusDoctor\\Client\\WebClient.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
         "outputPath": "D:\\codigo\\fusDoctor\\Client\\obj\\",
         "projectStyle": "PackageReference",
